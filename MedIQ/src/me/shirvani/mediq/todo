@@ -1,0 +1,3 @@
+- make errors not happen on such a low level, maybe make each function pass a boolean as to whether or not it works
+
+PROBLEM: array storage in csv doesnt work

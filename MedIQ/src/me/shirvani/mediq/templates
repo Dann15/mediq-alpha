@@ -1,0 +1,23 @@
+Patient (type = Patient)
+- Name (type = PatientName)
+- Age (type = PateintAge)
+- DOB = (type = PateintDOB)
+- Medications 
+  - Tylenol
+    - 5mg/day
+    - Start date
+- Conditions
+  - Left arm cut off
+     - Notes
+- History
+  - Heart Attack
+     - Notes
+- Visit to Clinic (array of Visit)
+   - Visit
+     - Date
+     - Reason
+     - Doctor
+     - Notes
+- Statistics
+  - Number of Times seen
+  - 

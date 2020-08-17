@@ -1,0 +1,11 @@
+# this is an example schedule
+# set to ignore everything that starts with hashtag, if not with tab
+# if hashtag with tab, then add it to hidden notes
+
+NAME = 
+DATE = maybe this
+
+9:00am - APPT
+	James Jones
+	Meeting Room A
+	# hidden notes only seen in Schedule view (not on home page)
